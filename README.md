@@ -1,5 +1,6 @@
 # My-cool-python-game
 
+# please gimme a star, I really need it:/
 # how and where play it?
 how?... You don't play for now :/ you just watch :( sorry
 
