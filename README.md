@@ -27,3 +27,13 @@ spacing
 
 
 ok bro don't have any read me
+
+
+
+
+
+
+
+
+
+ik js stop 
