@@ -47,7 +47,7 @@ ik js stop
 🙂🙂🙂😡🙂🙂😡🙂😡🙂😡🙂🙂🙂😡🙂
 🙂🙂🙂😡🙂🙂🙂😡😡🙂🙂😡😡😡🙂🙂
 
-ts was cool I knwo know
+ts was cool I know know
 
 
 did you have food?
