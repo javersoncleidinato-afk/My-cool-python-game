@@ -47,5 +47,7 @@ ik js stop
 🙂🙂🙂😡🙂🙂😡🙂😡🙂😡🙂🙂🙂😡🙂
 🙂🙂🙂😡🙂🙂🙂😡😡🙂🙂😡😡😡🙂🙂
 
+ts was cool I knwo
+
 
 
