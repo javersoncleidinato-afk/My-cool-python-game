@@ -15,6 +15,7 @@ Visual Studio (only pc I think avaible on visualstudio.com I think)
 
 Google Colab (the better avaible on PC mobile and others, just login and use)
 
+tensor (idk nothing about it but should work)
 and others
 
 # recommended google colab :)
