@@ -51,3 +51,4 @@ for i in range(10):
 
 print("\nGame ended!")
 print("Final score:", score)
+print("please star😁")
