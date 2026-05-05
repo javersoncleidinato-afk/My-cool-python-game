@@ -7,7 +7,7 @@ def wait(n):
 score = 0
 chances = 10
 
-events = ["gold", "trap", "money", "stealer", "chest"]
+events = ["gold", "trap", "money", "stealer", "chest", "ilusion"]
 
 caction = ["win", "lose"]
 
@@ -42,7 +42,10 @@ for i in range(10):
     	else:
     		print("one stealer, idk how it was on it... -6")
     		score -= 6
-
+    
+    elif event == "ilusion":
+        print("You fall into one ilusion... -4")
+        score -= 4
     wait(1.1)
 
     chances -= 1
