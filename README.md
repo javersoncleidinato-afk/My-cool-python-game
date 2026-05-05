@@ -1,5 +1,4 @@
 # My-cool-python-game
-Something cool, very cool I think
 
 # how and where play it?
 how?... You don't play for now :/ you just watch :( sorry
