@@ -17,4 +17,4 @@ Google Colab (the better avaible on PC mobile and others, just login and use)
 
 and others
 
-# recommended google colab
+# recommended google colab :)
