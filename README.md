@@ -22,3 +22,8 @@ and others
 # recommended google colab :)
 
 spacing
+
+
+
+
+ok bro don't have any read me
